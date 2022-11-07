@@ -1,12 +1,7 @@
-[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)]
-
 <h1 align="center">Hi 👋, I'm Ronak Gupta</h1>
 <h3 align="center">A passionate frontend developer and Web3 Enthusaist from India</h3>
-<img width = "400" align = "right" alt = "coding" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif>"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakgupta11&label=Profile%20views&color=0e75b6&style=flat" alt="ronakgupta11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronakgupta11" alt="ronakgupta11" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ronakguptark07" target="blank"><img src="https://img.shields.io/twitter/follow/ronakguptark07?logo=twitter&style=for-the-badge" alt="ronakguptark07" /></a> </p>
 
