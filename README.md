@@ -1,5 +1,8 @@
+[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)]
+
 <h1 align="center">Hi 👋, I'm Ronak Gupta</h1>
 <h3 align="center">A passionate frontend developer and Web3 Enthusaist from India</h3>
+<img width = "400" align = "right" alt = "coding" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif>"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakgupta11&label=Profile%20views&color=0e75b6&style=flat" alt="ronakgupta11" /> </p>
 
